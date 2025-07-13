@@ -1,4 +1,4 @@
-# 🧠 GenAI Smart Research Summarizer
+# 🧠 Smart AI Research Summarizer
 
 An AI-powered assistant to read, understand, summarize, and quiz you on uploaded documents (PDF/TXT). Built for the EZ Works GenAI Internship Assignment.
 
