@@ -1,68 +1,35 @@
-# 🧠 Smart AI Research Summarizer
+#🧠 Smart AI Research Summarizer
+An AI-powered assistant that helps you read, understand, summarize, and test your knowledge on uploaded research documents (PDF/TXT).
+Developed for the EZ Works GenAI Internship Assignment.
 
-An AI-powered assistant to read, understand, summarize, and quiz you on uploaded documents (PDF/TXT). Built for the EZ Works GenAI Internship Assignment.
+##🔧 Features
+📄 Document Upload	✍️ Auto Summary	💬 Ask Anything	🎯 Challenge Me	🧠 Local & Private
+Upload PDF or TXT	Summarize content in ≤150 words	Ask questions about the document	Generates logical questions and checks your answer	No external APIs, runs fully offline
 
----
+##🛠️ Tech Stack
+Language	Framework	AI/ML	Utilities
+Python 🐍	Streamlit 🖼️	HuggingFace Transformers 🤗	pdfminer.six (PDF parsing) 📄
 
-## 🔧 Features
-
-- 📄 **Document Upload** (PDF or TXT)
-- ✍️ **Auto Summary** in ≤150 words
-- 💬 **Ask Anything Mode** — free-form Q&A
-- 🎯 **Challenge Me Mode** — generates logic-based questions and evaluates your answers
-- 🧠 Runs locally using Hugging Face models (no API keys required)
-
----
-
-## 🛠️ Tech Stack
-
-- Python 🐍
-- Streamlit 🖼️
-- HuggingFace Transformers 🤗
-- pdfminer.six (PDF parsing)
-
----
-
-## 🚀 Getting Started
-
-### 1. Clone the repo
-```bash
-git clone https://github.com/your-username/genai-summarizer.git
+##🚀 Getting Started
+Step	Command
+🔁 Clone the repository	git clone https://github.com/your-username/genai-summarizer.git
 cd genai-summarizer
-# 🧠Smart-AI-Research-Summarization
+🧪 Create virtual environment	python -m venv tanishk
+⚙️ Activate environment	.\tanishk\Scripts\activate (Windows)
+source tanishk/bin/activate (Mac/Linux)
+📦 Install dependencies	pip install -r requirements.txt
+🖥️ Run the app	streamlit run app.py
 
-An AI-powered assistant to read, understand, summarize, and quiz you on uploaded documents (PDF/TXT). Built for the EZ Works GenAI Internship Assignment.
+##🙌 Acknowledgments
+Built with ♥ using:
 
----
+##Tool	Purpose
+🤗 Hugging Face	Local LLMs for NLP tasks
+📘 pdfminer.six	Text extraction from PDF
+🖼️ Streamlit	Interactive web interface
 
-## 🔧 Features
-
-- 📄 **Document Upload** (PDF or TXT)
-- ✍️ **Auto Summary** in ≤150 words
-- 💬 **Ask Anything Mode** — free-form Q&A
-- 🎯 **Challenge Me Mode** — generates logic-based questions and evaluates your answers
-- 🧠 Runs locally using Hugging Face models (no API keys required)
-
----
-
-## 🛠️ Tech Stack
-
-- Python 🐍
-- Streamlit 🖼️
-- HuggingFace Transformers 🤗
-- pdfminer.six (PDF parsing)
-
----
-
-#get  started
-
-1->clone  the  repo
-2->go inside  directory
-3->make  the  virtual  environment
-4->run the  pip  install  -r  requirements.txt
-5->streamlit run app.py       and  you  are  all  set
-
-#best  regards 
-
-Tanishk0001
+##📫 Author
+Name: Tanishk Vardhan Srivastav	
+Github: github.com/Tanishk0001	
+LinkedIn: linkedin.com/in/tanishkvs
 
