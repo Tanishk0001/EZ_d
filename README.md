@@ -29,7 +29,7 @@ An AI-powered assistant to read, understand, summarize, and quiz you on uploaded
 ```bash
 git clone https://github.com/your-username/genai-summarizer.git
 cd genai-summarizer
-# 🧠 GenAI Smart Research Summarizer
+# 🧠Smart-AI-Research-Summarization
 
 An AI-powered assistant to read, understand, summarize, and quiz you on uploaded documents (PDF/TXT). Built for the EZ Works GenAI Internship Assignment.
 
