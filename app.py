@@ -154,7 +154,7 @@ if st.session_state.document_text:
             st.metric("Characters", f"{len(st.session_state.document_text):,}")
     
     # Summary section
-    with st.expander("📝 Summary k", expanded=True):
+    with st.expander("📝 Summary ", expanded=True):
         st.write(st.session_state.summary)
 
 
